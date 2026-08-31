@@ -30,15 +30,33 @@ A game passes only if it satisfies **all three**.
 
 ---
 
-## Quick Recommendation Table
+## Your 5 Criteria — Full Comparison
 
-| Game | Pay model | Small-time? | Best for |
-|---|---|---|---|
-| **Old School RuneScape** | F2P-limited + ~$10/mo membership | ⭐ **Best fit** | Pure "time = progress," no wipes, chill |
-| **Guild Wars 2** | Free base, no subscription ever | ✅ Very | Fantasy feel, no subscription, no gear-locks |
-| **Final Fantasy XIV** | Subscription (~$16/mo) + big free trial | ✅ Very | Best story/content, play at your own pace |
-| **Elder Scrolls Online** | Buy-to-play, F2P-viable, optional ESO+ | ✅ Yes | Your known fave — persistent, casual |
-| **Eve Online** | F2P trial (Alpha) + paid Omega (~$20/mo) | ⚠️ F2P-viable, steep | Sci-fi depth, player economy, offline skill training |
+All five games below pass the #1 rule (**persistent progress, no wipes**). This table compares them on your other four criteria.
+
+| Game | Subscription? | Pay-to-Win? | Small-time? | F2P-friendly? |
+|---|---|---|---|---|
+| **Guild Wars 2** | 🟢 None | 🟢 None | ✅ Very | ✅ Yes |
+| **Elder Scrolls Online** | 🟢 None (opt. ESO+) | 🟡 Low | ✅ Yes | ✅ Yes |
+| **Old School RuneScape** | 🟡 Membership* | 🟢 None | ⭐ Best | ✅ Yes |
+| **Final Fantasy XIV** | 🔴 Yes (~$16/mo) | 🟢 None | ✅ Very | ⚠️ Trial only |
+| **Eve Online** | 🟢 None (opt. Omega) | 🟠 Moderate | ⚠️ Steep | ✅ Yes (capped) |
+
+*OSRS free-to-play is limited; full access needs membership, but you can earn it in-game with **Old School Bonds** (no real money needed).
+
+🏆 **Top pick that clears all 5: Guild Wars 2** — no subscription, no pay-to-win, no wipes, casual-friendly, F2P-viable.
+
+## Play Without Leveling Up
+
+Can you log in, have fun, and NOT feel forced to grind levels? (This is what you like about ESO.)
+
+| Game | Play & enjoy without leveling up? | How it works |
+|---|---|---|
+| **Guild Wars 2** | ⭐ **Yes — even better than ESO** | **Level scaling** — your level auto-scales to the zone. Reach max fast, then *just play content*. No level-gearing, ever. |
+| **Elder Scrolls Online** | ✅ **Yes** (your baseline) | No hard level-gearing — do dungeons/PvP/story at your level. |
+| **Final Fantasy XIV** | ⚠️ **Sort of** | Main scenario levels you up; endgame is content-driven, not a grind. More "structured." |
+| **Old School RuneScape** | ⚠️ **Different model** | No hard gate blocks content, but "progress" = skill levels over real time. |
+| **Eve Online** | ⚠️ **Partly** | Mining/scanning/exploration without leveling; endgame needs skills + expensive ships. |
 
 ---
 
@@ -228,6 +246,13 @@ A fully persistent space MMO set across **7,000+ star systems** in a **single sh
 ---
 
 ## Decision Cheat-Sheet
+
+- Want **no subscription at all**? → **Guild Wars 2** or **Elder Scrolls Online**
+- Want **no pay-to-win, ever**? → **Guild Wars 2**, **FFXIV**, or **OSRS**
+- Want **play without leveling up** (like ESO)? → **Guild Wars 2** (best) or **ESO**
+- Want **lowest time pressure + guaranteed progress**? → **Old School RuneScape**
+- Want **best story/content**, don't mind a subscription? → **Final Fantasy XIV**
+- Want **sci-fi depth + player economy** (accept a steep curve)? → **Eve Online**
 
 - Want **lowest time pressure + guaranteed progress**? → **OSRS**
 - Want **fantasy MMO feel, no subscription**? → **Guild Wars 2**
